@@ -5,3 +5,4 @@ Thumbs.db
 # エディタの一時ファイル
 *.swp
 *~
+.env
